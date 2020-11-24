@@ -1,2 +1,3 @@
 # GIT教程
--feature-a
+	-feature-a
+	- fix-b
